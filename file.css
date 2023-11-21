@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(#402039,#362195,#4535ee)  
+}
+button{
+    border-radius: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: greenyellow;
+    border: none;
+}
+button:hover{
+  background-color: #4535ee;
+  transition: 3s;
+}
+  .navbar{
+    background: transparent !important;
+    background-color: rgb(73, 73, 163)
+    box-shadow: inset;
+    font-weight: bold;
+    
+  }
+  .card{
+    margin-top:45px;
+  }
+  h1{
+    color: aliceblue;
+  }
+  h2{
+    color: aliceblue;
+  }
+  .testo{
+    font-weight: bold;
+    color: aliceblue;
+  }

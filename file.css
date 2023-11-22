@@ -1,24 +1,24 @@
 body{
     background: linear-gradient(#402039,#362195,#4535ee)  
 }
-button{
+.botone{
     border-radius: 20px;
     font-weight: bold;
     color: black;
     background-color: greenyellow;
     border: none;
 }
-button:hover{
+.botone:hover{
   background-color: #4535ee;
   transition: 3s;
 }
   .navbar{
     background: transparent !important;
-    background-color: rgb(73, 73, 163)
+    background-color: rgb(73, 73, 163);
     box-shadow: inset;
     font-weight: bold;
-    
   }
+
   .card{
     margin-top:45px;
   }
